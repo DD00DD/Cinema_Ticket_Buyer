@@ -1,0 +1,13 @@
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\bin\Debug\DaoD_BONUS Star Cinema.exe.config
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\bin\Debug\DaoD_BONUS Star Cinema.exe
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\bin\Debug\DaoD_BONUS Star Cinema.pdb
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\bin\Debug\DaoD_BONUS Star Cinema.xml
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\obj\Debug\DaoD_BONUS Star Cinema.vbprojAssemblyReference.cache
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\obj\Debug\DaoD_BONUS_Star_Cinema.Form1.resources
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\obj\Debug\DaoD_BONUS_Star_Cinema.Form2.resources
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\obj\Debug\DaoD_BONUS_Star_Cinema.Resources.resources
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\obj\Debug\DaoD_BONUS Star Cinema.vbproj.GenerateResource.cache
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\obj\Debug\DaoD_BONUS Star Cinema.vbproj.CoreCompileInputs.cache
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\obj\Debug\DaoD_BONUS Star Cinema.exe
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\obj\Debug\DaoD_BONUS Star Cinema.xml
+D:\DaoD_BONUS Star Cinema\DaoD_BONUS Star Cinema\obj\Debug\DaoD_BONUS Star Cinema.pdb
